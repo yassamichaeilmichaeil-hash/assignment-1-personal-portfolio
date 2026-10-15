@@ -1,0 +1,215 @@
+
+
+.parent{
+background-color: blue;
+width: 80%;
+margin: auto;
+border-radius: 20px;
+padding: 20px;
+}
+
+.name h1{
+    text-align: center;
+ color: white;   
+}
+.name p{
+text-align: center;
+color: aqua;
+}
+.child{
+
+border: 1px solid rgba(255, 255, 255, 0.2);
+border-radius: 25px;
+float: left;
+color: white;
+padding: 10px 15px;
+margin: 20px;
+width: fit-content;
+text-align: center;
+
+}
+
+
+.clear{
+clear: both;
+
+}
+
+
+.about{
+background-color: beige;
+width: 80%;
+margin: auto;
+margin-top: 20px;
+border-radius: 20px;
+padding: 20px;
+
+}
+
+.card img{
+
+width: 20%;
+border-radius: 100%;
+float: left;
+}
+
+.h2 h2{
+
+border-bottom: 2px solid rgba(0, 0, 0, 0.17);
+padding: 5px;
+padding-left: 20px;
+}
+.about link{
+color: #000;
+float: left;
+box-sizing: border-box;
+
+}
+.about .link{
+padding: 100px;    
+}
+span{
+    color: blue;
+}
+
+
+
+.skils{
+width: 80%;
+background-color: whitesmoke;
+margin: auto;
+margin-top: 20px;
+border-radius: 20px;
+padding: 20px;
+}
+
+.h2skils{
+color: blue;
+border-bottom: #00000017 2px solid;
+}
+
+.language h3{
+color: blue;
+}
+.language{
+border: #000 2px solid;
+width: 20%;
+padding: 10px;
+margin: 20px;
+border-radius: 20px;
+box-sizing: border-box;
+float: left;
+
+}
+
+
+
+.experience{
+
+width: 80%;
+background-color: rgb(245, 220, 235);
+border-radius: 20px;
+padding: 20px;
+margin: auto;
+margin-top: 20px;
+}
+
+
+.box{
+width: 80%;
+border: #00000017  2px solid;
+border-left: #000 5px solid;
+border-radius: 20px;
+}
+.photo img{
+width: 20%;
+padding: 20px;
+border: #00000015 2px solid;
+border-radius: 20px;
+margin: 20px;
+float: left;
+box-sizing: border-box;
+}
+
+.jop{
+padding: 20px;
+float: left;
+padding-top: 50px;
+}
+
+.jopp{
+    margin: 50px;
+}
+
+.p1{
+ color: blue;   
+}
+.experience h2 {
+    border-bottom: rgba(0, 0, 0, 0.167) 2px solid;
+    padding: 20px;
+}
+
+.front{
+width: 80%;
+border: #00000017 2px solid;
+margin: 20px;
+margin-left: 10px;
+border-radius: 20px;
+border-left: 5px black solid;
+
+}
+
+.card2 img{
+width: 20%;
+padding: 20px;
+border: #00000017 2px solid;
+border-radius: 20px;
+margin: 20px;
+float: left;
+
+}
+
+.front-end{
+padding: 20px;
+float: left;
+padding: 20px;
+padding-top: 80px;
+}
+
+.p1{
+    color: blue;
+}
+.frontp{
+    margin: 50px;
+}
+
+
+.contact{
+background-color: blue;
+width: 80%;
+margin:auto;
+border-radius: 20px;
+padding: 20px;
+margin-top: 20px;
+}
+.contact h2{
+color: white;
+border-bottom: white 1px solid;
+padding: 20px;
+}
+
+.contact p{
+    color: white;
+}
+
+.contact-links{
+width: fit-content;
+border: rgb(128, 0, 255) 1px solid;
+border-radius: 20px;
+margin: 20px;
+padding: 10px;
+float: left;
+}
+.contact-links a {
+    color: white;
+}
